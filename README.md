@@ -6,6 +6,8 @@
 
 Spiderpool is the underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud. The Spiderpool Community is committed to fostering an open and welcoming environment, with several ways to engage with other users and developers. We encourage and welcome your participation in the community.
 
+[![Spiderpool on StartupScores](https://startupscores.com/badge/spiderpool.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/spiderpool)
+
 ## Community Meetings
 
 The Spiderpool maintainers hold a community meeting on the 1st of every month at 15:00 (GMT+8) to discuss the latest plans for Spiderpool. If you have any topics of interest, feel free to join us and please add it to the upcoming meeting agenda.
